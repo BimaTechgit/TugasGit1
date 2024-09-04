@@ -1,1 +1,2 @@
-print("hello tiga")
+nama = input("masukan nama: ")
+print(nama)
